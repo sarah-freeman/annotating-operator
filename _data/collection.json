@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Annotating Mediation in Oana Avasilichioaei's Operator" ] },
+    "summary": { "en": [ "An exploration of audio annotation as a tool to interrogate and implicate the mediation of recorded audio." ] },
+    "items": [
+    ]
+}
