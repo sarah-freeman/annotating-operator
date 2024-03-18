@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:01:27.76",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:01:27.76",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oana's voice, speaking with a grave tone and relatively low pitch. Many phrases are broken up into groups of 2-4 words, which are spoken slowly with pauses between groups of words. Short i sounds, as in \"grip\" and \"abyss,\" are extended, as are s sounds in the middle/end of words. Volume decreases and onset/offset softens as she speaks. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "87.76"
+          "type": "RangeSelector",
+          "t": "87.76,128.99"
         }
       }
     }

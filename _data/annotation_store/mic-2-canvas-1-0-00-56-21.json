@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:00:56.21",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:00:56.21",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oana's voice. Repetition of \"the subject...,\" followed by description. Phrases tend to begin with hard onset, mid volume, and clear definition of words, and progress to lower volume and less-defined words, with longer pauses between words.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "56.21"
+          "type": "RangeSelector",
+          "t": "56.21,128.9"
         }
       }
     }

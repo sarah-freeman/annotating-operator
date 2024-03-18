@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:02:32.71",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:02:32.71",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oana's voice, speaking with a grave tone and relatively low pitch. Phrases are broken up into groups of 2 words, with pauses between words. Volume decreases and onset/offset becomes softer throughout this interval.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "152.71"
+          "type": "RangeSelector",
+          "t": "152.71,162.85"
         }
       }
     }

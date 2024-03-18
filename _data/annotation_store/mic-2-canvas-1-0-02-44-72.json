@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:02:44.72",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:02:44.72",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic, periodic electronic tone increases to high volume, then tapers off",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "164.72"
+          "type": "RangeSelector",
+          "t": "164.72,195.0"
         }
       }
     }

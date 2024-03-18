@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:05:27",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:05:27",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Muffled acute brassy sounds which occur at various intervals and resonate. Various mid pitches and low volume. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "327.0"
+          "type": "RangeSelector",
+          "t": "327.0,350.0"
         }
       }
     }

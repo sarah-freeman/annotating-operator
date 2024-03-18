@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:00:21.37",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:00:21.37",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oana's voice, smooth and clear, with aspirant onset and offset, mid volume and mid pitch. Pauses within phrases and between them. Emphasis on \"the subject\" and \"brute future,\" which are louder than the surrounding words and uttered with more defined onest. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "21.37"
+          "type": "RangeSelector",
+          "t": "21.37,36.0"
         }
       }
     }

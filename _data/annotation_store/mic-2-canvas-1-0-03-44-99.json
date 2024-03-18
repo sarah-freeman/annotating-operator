@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:03:44.99",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:03:44.99",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Polyphonic electronic sound which loops on a ~4 second interval from mid-low pitch, mid volume, and prominent static to low pitch and low volume. Periodic pop with hard onset and offset, mid pitch and mid volume at the end of each loop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "224.99"
+          "type": "RangeSelector",
+          "t": "224.99,249.45"
         }
       }
     },
@@ -51,20 +43,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:03:44.99",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:03:44.99",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Low pitch, mid volume constant electronic bass sound",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -77,8 +61,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "224.99"
+          "type": "RangeSelector",
+          "t": "224.99,282.134"
         }
       }
     }

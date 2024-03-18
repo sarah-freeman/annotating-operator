@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:03:12.83",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:03:12.83",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Shout pauses between words. Call-and-response form (e.g. \"...right? Yeah, that's what it looks like to me.\") suggests two speakers, but there's only one voice. Elements that presumably refer to descriptive rather than spoken text (e.g. \"unintelligible,\" \"explicative\") included within flow of speech, uttered by same speaker.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "192.83"
+          "type": "RangeSelector",
+          "t": "192.83,223.5"
         }
       }
     }

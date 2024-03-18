@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "0:03:57.27",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "0:03:57.27",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oana's voice, speaking at mid pitch and mid volume. Variable groupings of 1-10 words with pauses between. Variable speaking speed.  Emphasis on \"time turns deadly\" through relatively high volume and pitch, as well as hard onset.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
@@ -38,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "237.27"
+          "type": "RangeSelector",
+          "t": "237.27,280.85"
         }
       }
     }
