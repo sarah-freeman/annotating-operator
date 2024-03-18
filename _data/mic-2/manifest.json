@@ -33,6 +33,14 @@
               "none": ["Speaking voices"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-silence.json",
+            "label": {
+              "none": ["Silence"]
+            }
+          }
         ],
         "items": [
           {
