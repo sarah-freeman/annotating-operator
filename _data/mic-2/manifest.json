@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-04-51-51.json",
-            "label": {
-              "none": ["0:04:51.51"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-friction-sounds.json",
             "label": {
               "none": ["Friction sounds"]
