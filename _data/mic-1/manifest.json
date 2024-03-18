@@ -7,7 +7,7 @@
       {
         "id": "https://sarah-freeman.github.io/annotating-operator/mic-1/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 396.0,
+        "duration": 394.918,
         "annotations": [
           
           {
@@ -29,7 +29,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "",
-                    "duration": 396.0
+                    "duration": 394.918
                 },
                 "target": "https://sarah-freeman.github.io/annotating-operator/mic-1/canvas-1/canvas"
               }
