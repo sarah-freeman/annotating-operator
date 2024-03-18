@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-speaking-voices.json",
-            "label": {
-              "none": ["Speaking voices"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-04-42-59.json",
             "label": {
               "none": ["0:04:42.59"]
