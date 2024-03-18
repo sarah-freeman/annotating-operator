@@ -20,14 +20,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-01-05-1.json",
-            "label": {
-              "none": ["0:01:05.1"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-05-50-0.json",
             "label": {
               "none": ["0:05:50.0"]
