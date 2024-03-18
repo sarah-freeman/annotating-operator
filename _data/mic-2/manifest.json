@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-02-10-01.json",
-            "label": {
-              "none": ["0:02:10.01"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-speaking-voices--electronic-tones-and-distortions.json",
             "label": {
               "none": ["Speaking voices, electronic tones and distortions"]
