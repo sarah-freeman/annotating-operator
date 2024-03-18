@@ -8,16 +8,6 @@
         "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 394.918,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-02-44-72.json",
-            "label": {
-              "none": ["0:02:44.72"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://sarah-freeman.github.io/annotating-operator/mic-2/canvas-1/paintings",
