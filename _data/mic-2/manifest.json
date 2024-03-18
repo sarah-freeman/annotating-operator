@@ -116,6 +116,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-friction-sounds.json",
+            "label": {
+              "none": ["Friction sounds"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-01-05-1.json",
             "label": {
               "none": ["0:01:05.1"]
@@ -188,6 +196,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-speaking-voices--electronic-tones-and-distortions.json",
+            "label": {
+              "none": ["Speaking voices, electronic tones and distortions"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-00-00-000.json",
             "label": {
               "none": ["0:00:00.000"]
@@ -215,6 +231,14 @@
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-00-21-37.json",
             "label": {
               "none": ["0:00:21.37"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-electronic-tones-and-distortions.json",
+            "label": {
+              "none": ["Electronic tones and distortions"]
             }
           }
           ,
@@ -263,6 +287,14 @@
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-04-43-07.json",
             "label": {
               "none": ["0:04:43.07"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-speaking-voices.json",
+            "label": {
+              "none": ["Speaking voices"]
             }
           }
           ,
@@ -327,6 +359,14 @@
             "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-0-05-58-7.json",
             "label": {
               "none": ["0:05:58.7"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/annotating-operator/annotations/mic-2-canvas-1-silence.json",
+            "label": {
+              "none": ["Silence"]
             }
           }
           ,
